@@ -17,9 +17,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # environment variables
-.env
 .env.development.local
-.env.production
 
 # macOS-specific files
 .DS_Store
@@ -35,3 +33,7 @@ package-lock.json
 # ignore blur placeholders
 src/blur-placeholders.json
 .vercel
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat

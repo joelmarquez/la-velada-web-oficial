@@ -22,4 +22,4 @@ export default defineConfig({
   integrations: [sitemap(), auth()],
 
   site: 'https://www.infolavelada.com/',
-})
+});
